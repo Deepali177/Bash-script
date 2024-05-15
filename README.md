@@ -1,2 +1,2 @@
 # Bash-script
-Author: Deepali Mishra
+Author - Deepali Mishra
